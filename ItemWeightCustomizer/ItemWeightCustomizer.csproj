@@ -11,7 +11,4 @@
 		<PackageReference Include="Mutagen.Bethesda.FormKeys.SkyrimSE" Version="2.0.0" />
 		<PackageReference Include="Mutagen.Bethesda.Synthesis" Version="0.17.5" />
 	</ItemGroup>
-	<ItemGroup>
-		<Folder Include="FormKeys" />
-	</ItemGroup>
 </Project>
